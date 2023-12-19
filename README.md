@@ -6,7 +6,7 @@ This project analyzes the U.S. Inflation Rate by Year from 1929 to 2023. The dat
 
 ## Instructions on how to run the pipeline.
 
-1. Clone the GitHub repository: git clone [https://github.com/your_username/your_project.git](https://github.com/AlinaKhanova/Reproducible-Pipelines.git)
+1. Clone the GitHub repository: git clone [[https://github.com/your_username/your_project.git](https://github.com/AlinaKhanova/Reproducible-Pipelines.git)](https://github.com/AlinaKhanova/Reproducible-Pipelines.git)
 2. Navigate to the project directory: cd Reproducible-Pipelines
 3. Install dependencies: pip install -r requirements.txt
 4. Run the pipeline: bash run_pipeline.sh
